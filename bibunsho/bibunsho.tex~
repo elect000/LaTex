@@ -1,0 +1,8 @@
+\documentclass[a4j]{jarticle}
+\bibliography{junsrt}
+\begin{document}
+奥村先生の本 \cite{奥村_黒木201310'}を参考とした。
+\bibliography{bibunsho}
+Mr.Knuthの記事\cite{journals/mst/Knuth68}も参考とした。
+\bibliography{bibunsho}
+\end{document}
