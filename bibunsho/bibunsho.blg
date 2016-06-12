@@ -1,0 +1,49 @@
+This is pBibTeX, Version 0.99d-j0.33 (utf8.euc) (TeX Live 2016/W32TeX)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: bibunsho.aux
+The style file: junsrt.bst
+Database file #1: bibunsho.bib
+Warning--empty author in journals/mst/Knuth68
+You've used 2 entries,
+            2270 wiz_defined-function locations,
+            551 strings with 4319 characters,
+and the built_in function-call counts, 598 in all, are:
+= -- 46
+> -- 8
+< -- 3
++ -- 4
+- -- 2
+* -- 32
+:= -- 69
+add.period$ -- 6
+call.type$ -- 2
+change.case$ -- 1
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 43
+empty$ -- 63
+format.name$ -- 4
+if$ -- 150
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 3
+newline$ -- 13
+num.names$ -- 1
+pop$ -- 16
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 32
+stack$ -- 0
+substring$ -- 28
+swap$ -- 12
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 3
+width$ -- 3
+write$ -- 24
+is.kanji.str$ -- 20
+(There was 1 warning)

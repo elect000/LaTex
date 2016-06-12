@@ -1,0 +1,20 @@
+\documentclass[a4j]{jbook}
+%ここがプリアンブル
+\usepackage[dvipdfmx]{graphicx}
+\begin{document}
+%ここから本文開始
+\part{地球}
+地球は太陽系の惑星の一つで太陽から三番目に近く、生物が生存している星である。
+
+%ここが本文の終わり
+\end{document}
+\begin{figure}
+ \centering
+ \includegraphics[scale=1.0]{emacs_logo.png}
+ \caption{画像の挿入}
+ \label{fig:testpicture}
+\end{figure}
+
+
+
+

@@ -1,0 +1,69 @@
+\documentclass[a4j]{jsarticle}
+\usepackage{amsmath}
+
+\begin{document}
+\section{Hello \AmS-\LaTeX !}
+\begin{align}
+ \left(
+ \begin{array}{cc}
+  2&-1 \\
+  -3&4 \\
+ \end{array}
+ \right)
+ \left(
+ \begin{array}{c}
+  1\\
+  2\\
+ \end{array}
+ \right) = \left(
+ \begin{array}{c}
+  0\\
+  5\\
+ \end{array}
+ \right)
+\end{align}
+\section{複数行にわたる数式}
+\begin{align}
+ \overrightarrow{dd} &= \overrightarrow{rd} + \left(\vec{d} \cdot
+ \vec{n}\right)\vec{n}\label{eq:vectordd1}\\
+ &= \vec{d} - \left(\vec{d} \cdot \vec{n} \right) \vec{n} \label{eq:vectordd2}
+\end{align}
+
+ \section{一部の数式にだけ番号を振る}
+\begin{align}
+ \left(\lambda r.r \right)
+ \left(\lambda x. \lambda y.x~y \right)
+ & \rightarrow_{\eta} 
+ \left(\lambda r.r \right)
+ \left(\lambda x.x \right)\nonumber \\
+ & \rightarrow_{\beta}
+ \lambda x.x
+\end{align}
+
+\section{align*環境}
+\begin{align*}
+ \tau &::= \alpha\, |\, int|\, bool|\, \tau_1 \rightarrow \tau_2 \\
+ \sigma &::= \tau\, |\, \forall \alpha. \sigma
+\end{align*}
+
+\section{ \textbackslash [コマンドと \textbackslash ]コマンド}
+\[
+ Fun\left(x, \protect\underbrace{Let%
+ \left
+ (f, \protect\overbrace{Fun\left(y,x\right)}
+ ~{\forall\alpha_2. \alpha_2 \rightarrow \alpha_1},
+ f \right)}_%
+ {\forall\alpha_2.\alpha_2 \rightarrow \alpha_1}
+ \right)
+ : \forall\alpha_2.\alpha_1\rightarrow
+ \left(
+ \alpha_2 \rightarrow \alpha_1
+ \right)
+\]
+
+\section{インライン数式}
+離散フーリエ変換
+$X_k \left( k = 0 , 1 , \dots , N - 1 \right)$は級数
+$X_k= \sum~{N-1}_{n=0}x_n \mathrm{e}~{-i\frac{2\pi kn}{N}}$となり、
+この計算量は$\mathcal{0}\left(N~2\right)$になる。
+\end{document}

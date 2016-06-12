@@ -1,0 +1,83 @@
+\documentclass[a4j]{jarticle}
+%ここがプリアンブル
+\usepackage[dvipdfmx]{graphicx}
+\begin{document}
+%ここから本文開始
+\part{地球}
+地球は太陽系の惑星の一つで太陽から三番目に近く、生物が生存している星である。
+
+\section{アジア}
+アジアはヨーロッパを除いたユーラシア大陸全般を指す。
+
+\section{日本}
+日本は日本列島を主な領土とする東アジアの国家である。
+
+\subsection{茨城}
+日本の県の一つで関東地方の東北に位置し、東は太平洋に面する。
+\subsubsection{つくば}
+茨城県南部に位置し、筑波研究学園都市つくば市全域を区域とする。
+
+\paragraph{天王台}
+つくば市の東部に位置し、地域内のほぼすべてが筑波大学や研究施設である。
+
+\subparagraph{1-1-1}
+筑波大学天王台キャンパスがある。
+\begin{itemize}
+  \item 鍋
+  \item フライパン
+ \end{itemize}
+\begin{itemize}
+ \item フライパンに油を敷く    
+ \item 卵を入れる
+\end{itemize}
+\begin{description}
+ \item[つくば]
+  筑波大学があります。
+ \item[土浦]
+  つくば国際大学があります。
+ \end{description}
+\newpage
+ \begin{figure}[hbp]
+ \centering
+ \includegraphics[scale=1.0]{emacs_logo.png}
+ \caption{画像の挿入}
+ \label{fig:testpicture}
+ \end{figure}
+ \newpage
+ \begin{table}[h]
+  \caption{25マス計算（掛け算）}
+  \label{table:tableexample}
+  \centering
+  \begin{tabular}{| r ||c|c|c|c|c|}
+   \hline
+   掛け算&2 &3 &5 &7 &1 \\ \hline \hline
+   1      & 2&3 & 5& 7&1 \\ \hline
+   4      & 8&12 &20 &28 &4 \\ \hline
+   9      &18 &27 &45 &63 &9 \\ \hline
+   3      &6 &9 &15 &21 &3 \\ \hline
+   8      &16 &24 &40 &56 &8 \\ \hline
+  \end{tabular} 
+ \end{table}
+ \begin{table}[h]
+  \caption{複数セルにまたがる表}
+  \label{table:multiolumn}
+  \centering
+  \begin{tabular}{|l|c|r|r|}
+   \hline
+   \multicolumn{4}{|c|}{メンバ} \\ \hline \hline
+   主戦力 &Aさん &Bさん &Cさん \\ \cline{2-3}
+   &Dさん &Eさん &Fさん \\ \hline
+   副戦力&Gさん &Fさん &Gさん \\ \cline{3-4}
+   &Hさん &Iさん &Jさん \\ \hline    
+   補欠& \multicolumn{3}{|c|}{新人} \\ \hline
+  \end{tabular}
+ \end{table}
+ \newpage
+ 
+%ここが本文の終わり
+\end{document}
+
+
+
+
+
