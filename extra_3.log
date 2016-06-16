@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-160201-2.6 (utf8.sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2016.6.7)  16 JUN 2016 21:53
+This is e-pTeX, Version 3.14159265-p3.7.1-160201-2.6 (sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2016.6.7)  16 JUN 2016 23:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -132,28 +132,59 @@ LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 11.53198pt on input line 38.
  [2]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 63.
-
-(c:/w32tex/share/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 63.
- (./extra_3.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 12--14
-[]\JY1/mc/m/n/10 „Éë„Éñ„É™ „ÉÉ„ÇØ„Éâ„É°„Ç§„É≥„ÇΩ„Éï„Éà„Ç¶ „Çß„Ç¢\OT1/cmr/m/n/10 , 2015 \JY1/mc
-/m/n/10 Âπ¥ \OT1/cmr/m/n/10 5 \JY1/mc/m/n/10 Êúà \OT1/cmr/m/n/10 27 \JY1/mc/m/n/1
-0 Êó• \OT1/cmr/m/n/10 (\JY1/mc/m/n/10 Ê∞¥\OT1/cmr/m/n/10 ) 09:48 UTC.
+[3] [4] [5] (./extra_3.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+[]\JY1/mc/m/n/10 ÉpÉuÉä ÉbÉNÉhÉÅÉCÉìÉ\ÉtÉgÉE ÉFÉA\OT1/cmr/m/n/10 , 2015 \JY1/mc
+/m/n/10 îN \OT1/cmr/m/n/10 5 \JY1/mc/m/n/10 åé \OT1/cmr/m/n/10 27 \JY1/mc/m/n/1
+0 ì˙ \OT1/cmr/m/n/10 (\JY1/mc/m/n/10 êÖ\OT1/cmr/m/n/10 ) 09:48 UTC.
  []
 
-[3]) [4] (./extra_3.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--31
+[]\JY1/mc/m/n/10 ëÂí√êS\OT1/cmr/m/n/10 .  \JY1/mc/m/n/10 É\ÉtÉgÉE ÉFÉAì¡ãñÇÃï€
+åÏä˙ä‘ \OT1/cmr/m/n/10 20 \JY1/mc/m/n/10 îNÇÕí∑âﬂÇ¨ ÅH
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.38 ...ck URL:http://www.cric.or.jp/db/report/h6_
+                                                  5/h6_5_main.html#4_2.
+? 
+! Double subscript.
+l.38 ...http://www.cric.or.jp/db/report/h6_5/h6_5_
+                                                  main.html#4_2.
+? 
+! You can't use `macro parameter character #' in math mode.
+l.38 ....cric.or.jp/db/report/h6_5/h6_5_main.html#
+                                                  4_2.
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.39 
+     
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.39 
+     
+? 
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.39 
+     
+? 
+) [6] (./extra_3.aux) ) 
 Here is how much of TeX's memory you used:
- 583 strings out of 493693
- 6209 string characters out of 6151666
+ 569 strings out of 493693
+ 5917 string characters out of 6151666
  66761 words of memory out of 5000000
- 4192 multiletter control sequences out of 15000+600000
+ 4182 multiletter control sequences out of 15000+600000
  14833 words of font info for 68 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 23i,6n,19p,366b,247s stack positions out of 5000i,500n,10000p,500000b,80000s
+ 23i,6n,19p,366b,323s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on extra_3.dvi (4 pages, 9252 bytes).
+Output written on extra_3.dvi (6 pages, 22124 bytes).
