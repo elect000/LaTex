@@ -1,0 +1,7 @@
+;; This buffer is for notes you don't want to save, and for Lisp evaluation.
+;; If you want to create a file, visit that file with C-x C-f,
+;; then enter the text in that file's own buffer.
+
+Thailand has a lot of delicious food.
+For instance, Tomuyankun is  a famous soup which is one of the world's three mejor soup.
+it conatain shrimps are fresh, harbs, and red peppers.
