@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-160201-2.6 (sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2016.6.7)  16 JUN 2016 09:46
+This is e-pTeX, Version 3.14159265-p3.7.1-160201-2.6 (utf8.sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2016.6.7)  16 JUN 2016 21:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -112,59 +112,48 @@ LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
 (Font)              scaled to size 19.9311pt on input line 9.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 19.9311pt on input line 9.
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 14.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 14.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 14.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 14.
-
-
-LaTeX Warning: Citation `def_t' on page 1 undefined on input line 14.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 16.
+(Font)              <7> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 16.
+(Font)              <5> on input line 18.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 16.
+(Font)              scaled to size 6.72699pt on input line 18.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 4.805pt on input line 16.
-
-LaTeX Warning: Citation `def_t_r' on page 1 undefined on input line 25.
-
-[1
+(Font)              scaled to size 4.805pt on input line 18.
+ [1
 
 ]
 LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 36.
+(Font)              scaled to size 9.60999pt on input line 36.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 36.
+(Font)              scaled to size 9.60999pt on input line 36.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 38.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 38.
+ [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 63.
 
+(c:/w32tex/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 63.
+ (./extra_3.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+[]\JY1/mc/m/n/10 パブリ ックドメインソフトウ ェア\OT1/cmr/m/n/10 , 2015 \JY1/mc
+/m/n/10 年 \OT1/cmr/m/n/10 5 \JY1/mc/m/n/10 月 \OT1/cmr/m/n/10 27 \JY1/mc/m/n/1
+0 日 \OT1/cmr/m/n/10 (\JY1/mc/m/n/10 水\OT1/cmr/m/n/10 ) 09:48 UTC.
+ []
 
-LaTeX Warning: Citation `def_oss' on page 2 undefined on input line 40.
-
-
-LaTeX Warning: Citation `det_pds' on page 2 undefined on input line 41.
-
-[2]
-
-LaTeX Warning: Citation `def_diff' on page 3 undefined on input line 49.
-
-[3] (./extra_3.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+[3]) [4] (./extra_3.aux) ) 
 Here is how much of TeX's memory you used:
- 566 strings out of 493693
- 5898 string characters out of 6151666
+ 583 strings out of 493693
+ 6209 string characters out of 6151666
  66761 words of memory out of 5000000
- 4181 multiletter control sequences out of 15000+600000
- 15141 words of font info for 69 fonts, out of 8000000 for 9000
+ 4192 multiletter control sequences out of 15000+600000
+ 14833 words of font info for 68 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 24i,6n,24p,366b,225s stack positions out of 5000i,500n,10000p,500000b,80000s
+ 23i,6n,19p,366b,247s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on extra_3.dvi (3 pages, 8328 bytes).
+Output written on extra_3.dvi (4 pages, 9252 bytes).
