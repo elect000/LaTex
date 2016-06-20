@@ -3,45 +3,45 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: extra_3.aux
 The style file: junsrt.bst
 Database file #1: extra_3.bib
-You've used 9 entries,
+You've used 11 entries,
             2270 wiz_defined-function locations,
-            574 strings with 5061 characters,
-and the built_in function-call counts, 1315 in all, are:
-= -- 69
-> -- 12
+            582 strings with 5331 characters,
+and the built_in function-call counts, 1619 in all, are:
+= -- 94
+> -- 14
 < -- 0
-+ -- 10
++ -- 12
 - -- 1
-* -- 6
-:= -- 104
-add.period$ -- 19
-call.type$ -- 9
-change.case$ -- 9
+* -- 7
+:= -- 135
+add.period$ -- 23
+call.type$ -- 11
+change.case$ -- 11
 chr.to.int$ -- 0
-cite$ -- 9
-duplicate$ -- 99
-empty$ -- 217
+cite$ -- 11
+duplicate$ -- 121
+empty$ -- 265
 format.name$ -- 2
-if$ -- 342
+if$ -- 427
 int.to.chr$ -- 0
-int.to.str$ -- 9
+int.to.str$ -- 11
 missing$ -- 0
-newline$ -- 40
+newline$ -- 48
 num.names$ -- 1
-pop$ -- 129
+pop$ -- 136
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 81
+skip$ -- 110
 stack$ -- 0
 substring$ -- 0
-swap$ -- 9
+swap$ -- 11
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
 while$ -- 1
-width$ -- 10
-write$ -- 71
-is.kanji.str$ -- 55
+width$ -- 13
+write$ -- 86
+is.kanji.str$ -- 67

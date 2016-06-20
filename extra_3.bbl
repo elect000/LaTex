@@ -1,40 +1,53 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{def_t}
 著作権, 2016年5月28日 (土) 16:41 UTC.
-\newblock URL:https://ja.wikipedia.org/wiki/著作権.
+\newblock \url{https://ja.wikipedia.org/wiki/著作権}.
 
 \bibitem{def_t_r}
 著作権法.
-\newblock URL:http://law.e-gov.go.jp/htmldata/S45/S45HO048.html.
+\newblock \url{http://law.e-gov.go.jp/htmldata/S45/S45HO048.html}.
 
 \bibitem{def_oss}
-オープンソース, 2016年5月10日 (火) 04:36 UTC.
-\newblock URL:https://ja.wikipedia.org/wiki/オープンソース.
+オープンソース.
+\newblock url{https://ja.wikipedia.org/wiki/オープンソース}, 2016年5月10日 (火)
+  04:36 UTC.
 
 \bibitem{def_pds}
-パブリックドメインソフトウェア, 2015年5月27日 (水) 09:48 UTC.
-\newblock URL:https://ja.wikipedia.org/wiki/パブリックドメインソフトウェア.
+パブリックドメインソフトウェア.
+\newblock \url{https://ja.wikipedia.org/wiki/パブリックドメインソフトウェア},
+  2015年5月27日 (水) 09:48 UTC.
 
 \bibitem{def_diff}
 Ossとパブリックドメインソフトウェアの違い.
-\newblock http://www.itpassportsiken.com/bbs/0705.html.
+\newblock \url{http://www.itpassportsiken.com/bbs/0705.html}.
 
 \bibitem{def_time}
 著作権の保護期間はどれだけ？
-\newblock URL:http://www.cric.or.jp/qa/hajime/hajime3.html.
+\newblock \url{http://www.cric.or.jp/qa/hajime/hajime3.html}.
 
 \bibitem{def_tokkyo}
 大津心.
 \newblock ソフトウェア特許の保護期間20年は長過ぎ？
-\newblock URL:http://www.atmarkit.co.jp/news/200510/07/osdn.html.
+\newblock \url{http://www.atmarkit.co.jp/news/200510/07/osdn.html}.
 
 \bibitem{def_his}
-著作権の歴史, 2016年5月12日 (木) 20:54 UTC.
-\newblock URL:https://ja.wikipedia.org/wiki/著作権の歴史.
+著作権の歴史.
+\newblock \url{https://ja.wikipedia.org/wiki/著作権の歴史}, 2016年5月12日 (木)
+  20:54 UTC.
 
 \bibitem{def_eng}
 コンピュータ・プログラムに係る著作権問題に関する調査研究協力者会議報告書─既存プログラムの調査・解析等について─.
-\newblock URL:http://www.cric.or.jp/db/report/h6_5/h6_5_main.html#4_2.
+\newblock \url{http://www.cric.or.jp/db/report/h6_5/h6_5\_main.html#4_2}.
+
+\bibitem{def_re}
+Tppによる著作権法の変更について.
+\newblock
+  \url{http://www.huffingtonpost.jp/taro-yamada/tpp-copyright-law_b_9509084.html}.
+
+\bibitem{def_m_o}
+オープンソースソフトウェア.
+\newblock \url{https://ja.wikipedia.org/wiki/オープンソースソフトウェア},
+  2016年5月10日 (火) 06:07 UTC.
 
 \end{thebibliography}
