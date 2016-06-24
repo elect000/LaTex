@@ -1,22 +1,22 @@
 \begin{thebibliography}{10}
 
 \bibitem{def_t}
-著作権, 2016年5月28日 (土) 16:41 UTC.
-\newblock \url{https://ja.wikipedia.org/wiki/著作権}.
+福井健策.
+\newblock 著作権とは何か―文化と創造のゆくえ, 第221pages巻.
+\newblock 集英社, 2015/5.
 
 \bibitem{def_t_r}
-著作権法.
+著作権法 第二条.
 \newblock \url{http://law.e-gov.go.jp/htmldata/S45/S45HO048.html}.
 
 \bibitem{def_oss}
-オープンソース.
-\newblock url{https://ja.wikipedia.org/wiki/オープンソース}, 2016年5月10日 (火)
-  04:36 UTC.
+オープンソースソフトウェア 彼らはいかにしてビジネススタンダードになったのか.
+\newblock
+  \url{http://www.oreilly.co.jp/BOOK/osp/OpenSource_Web_Version/contents/contents.html}.
 
 \bibitem{def_pds}
 パブリックドメインソフトウェア.
-\newblock \url{https://ja.wikipedia.org/wiki/パブリックドメインソフトウェア},
-  2015年5月27日 (水) 09:48 UTC.
+\newblock \url{http://www.weblio.jp/content/パブリックドメインソフトウェア}.
 
 \bibitem{def_diff}
 Ossとパブリックドメインソフトウェアの違い.
@@ -33,8 +33,7 @@ Ossとパブリックドメインソフトウェアの違い.
 
 \bibitem{def_his}
 著作権の歴史.
-\newblock \url{https://ja.wikipedia.org/wiki/著作権の歴史}, 2016年5月12日 (木)
-  20:54 UTC.
+\newblock \url{http://cozylaw.com/copy/tyosakuken/history.htm}.
 
 \bibitem{def_eng}
 コンピュータ・プログラムに係る著作権問題に関する調査研究協力者会議報告書─既存プログラムの調査・解析等について─.
@@ -46,8 +45,7 @@ Tppによる著作権法の変更について.
   \url{http://www.huffingtonpost.jp/taro-yamada/tpp-copyright-law_b_9509084.html}.
 
 \bibitem{def_m_o}
-オープンソースソフトウェア.
-\newblock \url{https://ja.wikipedia.org/wiki/オープンソースソフトウェア},
-  2016年5月10日 (火) 06:07 UTC.
+オープンソースソフトウェア（ＯＳＳ）の歴史.
+\newblock \url{http://www.kogures.com/hitoshi/history/soft-oss/index.html}.
 
 \end{thebibliography}
