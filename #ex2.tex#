@@ -1,0 +1,99 @@
+<<<<<<< HEAD
+\documentclassp[a4j]{jbook}
+% ã“ã“ãŒãƒ—ãƒªã‚¢ãƒ³ãƒ–ãƒ«
+\begin{document}
+% ã“ã“ã‹ã‚‰æœ¬æ–‡ã®é–‹å§‹
+\part{}
+\section{}
+\subsection{}
+\subsetion{}
+\paragraph{}
+\subparagraph{}
+% ã“ã“ãŒæœ¬æ–‡ã®çµ‚ã‚ã‚Š
+=======
+\documentclass[a4j]{jarticle}
+%‚±‚±‚ªƒvƒŠƒAƒ“ƒuƒ‹
+\usepackage[dvipdfmx]{graphicx}
+\begin{document}
+%‚±‚±‚©‚ç–{•¶ŠJŽn
+\part{’n‹…}
+’n‹…‚Í‘¾—zŒn‚Ì˜f¯‚Ìˆê‚Â‚Å‘¾—z‚©‚çŽO”Ô–Ú‚É‹ß‚­A¶•¨‚ª¶‘¶‚µ‚Ä‚¢‚é¯‚Å‚ ‚éB
+
+\section{ƒAƒWƒA}
+ƒAƒWƒA‚Íƒˆ[ƒƒbƒp‚ðœ‚¢‚½ƒ†[ƒ‰ƒVƒA‘å—¤‘S”Ê‚ðŽw‚·B
+
+\section{“ú–{}
+“ú–{‚Í“ú–{—ñ“‡‚ðŽå‚È—Ì“y‚Æ‚·‚é“ŒƒAƒWƒA‚Ì‘‰Æ‚Å‚ ‚éB
+
+\subsection{ˆïé}
+“ú–{‚ÌŒ§‚Ìˆê‚Â‚ÅŠÖ“Œ’n•û‚Ì“Œ–k‚ÉˆÊ’u‚µA“Œ‚Í‘¾•½—m‚É–Ê‚·‚éB
+\subsubsection{‚Â‚­‚Î}
+ˆïéŒ§“ì•”‚ÉˆÊ’u‚µA’}”gŒ¤‹†Šw‰€“sŽs‚Â‚­‚ÎŽs‘Sˆæ‚ð‹æˆæ‚Æ‚·‚éB
+
+\paragraph{“V‰¤‘ä}
+‚Â‚­‚ÎŽs‚Ì“Œ•”‚ÉˆÊ’u‚µA’nˆæ“à‚Ì‚Ù‚Ú‚·‚×‚Ä‚ª’}”g‘åŠw‚âŒ¤‹†Ž{Ý‚Å‚ ‚éB
+
+\subparagraph{1-1-1}
+’}”g‘åŠw“V‰¤‘äƒLƒƒƒ“ƒpƒX‚ª‚ ‚éB
+\begin{itemize}
+  \item “ç
+  \item ƒtƒ‰ƒCƒpƒ“
+ \end{itemize}
+\begin{itemize}
+ \item ƒtƒ‰ƒCƒpƒ“‚É–û‚ð•~‚­    
+ \item —‘‚ð“ü‚ê‚é
+\end{itemize}
+\begin{description}
+ \item[‚Â‚­‚Î]
+  ’}”g‘åŠw‚ª‚ ‚è‚Ü‚·B
+ \item[“y‰Y]
+  ‚Â‚­‚Î‘Û‘åŠw‚ª‚ ‚è‚Ü‚·B
+ \end{description}
+\newpage
+ \begin{figure}[hbp]
+ \centering
+ \includegraphics[scale=1.0]{emacs_logo.png}
+ \caption{‰æ‘œ‚Ì‘}“ü}
+ \label{fig:testpicture}
+ \end{figure}
+ \newpage
+ \begin{table}[h]
+  \caption{25ƒ}ƒXŒvŽZiŠ|‚¯ŽZj}
+  \label{table:tableexample}
+  \centering
+  \begin{tabular}{| r ||c|c|c|c|c|}
+   \hline
+   Š|‚¯ŽZ&2 &3 &5 &7 &1 \\ \hline \hline
+   1      & 2&3 & 5& 7&1 \\ \hline
+   4      & 8&12 &20 &28 &4 \\ \hline
+   9      &18 &27 &45 &63 &9 \\ \hline
+   3      &6 &9 &15 &21 &3 \\ \hline
+   8      &16 &24 &40 &56 &8 \\ \hline
+  \end{tabular} 
+ \end{table}
+ \begin{table}[h]
+  \caption{•¡”ƒZƒ‹‚É‚Ü‚½‚ª‚é•\}
+  \label{table:multiolumn}
+  \centering
+  \begin{tabular}{|l|c|r|r|}
+   \hline
+   \multicolumn{4}{|c|}{ƒƒ“ƒo} \\ \hline \hline
+   Žåí—Í &A‚³‚ñ &B‚³‚ñ &C‚³‚ñ \\ \cline{2-3}
+   &D‚³‚ñ &E‚³‚ñ &F‚³‚ñ \\ \hline
+   •›í—Í&G‚³‚ñ &F‚³‚ñ &G‚³‚ñ \\ \cline{3-4}
+   &H‚³‚ñ &I‚³‚ñ &J‚³‚ñ \\ \hline    
+   •âŒ‡& \multicolumn{3}{|c|}{Vl} \\ \hline
+  \end{tabular}
+ \end{table}
+ }\ref{fig:testpicture}‚Æ•\\ref{table:tableexample}
+%‚±‚±‚ª–{•¶‚ÌI‚í‚è
+>>>>>>> origin/master
+\end{document}
+
+
+
+
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
